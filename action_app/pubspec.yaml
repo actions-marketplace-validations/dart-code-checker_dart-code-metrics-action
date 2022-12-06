@@ -14,7 +14,7 @@ dependencies:
   dart_code_metrics: ^5.0.0
   github: ^9.0.0
   meta: ^1.7.0
-  path: ^1.8.0
+  path: ^1.8.3
 
 dev_dependencies:
   coverage: ^1.0.3
