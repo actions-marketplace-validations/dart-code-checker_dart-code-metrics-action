@@ -17,7 +17,7 @@ dependencies:
   path: ^1.8.0
 
 dev_dependencies:
-  coverage: ^1.0.3
+  coverage: ^1.6.3
   lints: ^2.0.0
   mocktail: ^0.3.0
   source_span: ^1.8.1
